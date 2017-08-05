@@ -22,7 +22,7 @@ public class Project {
 		vigilante.steals();
 		vigilante.showAbilities();
 		
-		CantAccess ca = new CantAccess();
-		ca.increaseSpeed();
+		//CantAccess ca = new CantAccess();
+		//ca.increaseSpeed();
 	}
 }
